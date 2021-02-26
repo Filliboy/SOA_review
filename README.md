@@ -7,4 +7,4 @@ Code for testing the reproducability of several papers (LSTM[1], CNN baseline[2]
 
 [3]J. Cho and H. Hwang, "Spatio-Temporal Representation of an Electoencephalogram for Emotion Recognition Using a Three-Dimensional Convolutional Neural Network", Sensors, vol. 20, no. 12, p. 3491, 2020. Available: https://www.mdpi.com/1424-8220/20/12/3491/html. [Accessed 25 February 2021].
 
-[4]S. Koelstra et al., "DEAP: A Database for Emotion Analysis ;Using Physiological Signals", IEEE Transactions on Affective Computing, vol. 3, no. 1, pp. 18-31, 2012. Available: http://www.eecs.qmul.ac.uk/mmv/datasets/deap/doc/tac_special_issue_2011.pdf.
+[4]S. Koelstra et al., "DEAP: A Database for Emotion Analysis ;Using Physiological Signals", IEEE Transactions on Affective Computing, vol. 3, no. 1, pp. 18-31, 2012. Available: http://www.eecs.qmul.ac.uk/mmv/datasets/deap/doc/tac_special_issue_2011.pdf. [Accessed 25 February 2021].
